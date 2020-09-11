@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 4,
+  "editor.defaultFormatter": "ms-python.python",
+  "python.formatting.provider": "black",
+  "python.pythonPath": "/Users/camargo/opt/anaconda3/envs/deeplearning/bin/python",
+  "terminal.integrated.inheritEnv": false
+}
