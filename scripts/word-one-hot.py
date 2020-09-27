@@ -1,6 +1,10 @@
 import numpy as np
 
-samples = ["The cat sat on the mat.", " The dog ate my homework."]
+samples = [
+    "The cat sat on the mat.",
+    " The dog ate my homework.",
+    "The fox jumped over the lazy dog.",
+]
 
 dictionary = {}
 for sample in samples:
